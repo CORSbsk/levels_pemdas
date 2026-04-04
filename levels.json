@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "name": "The Beginning!!!!!",
+    "targetValue": 20.0,
+    "parenthesesPairsCount": 1,
+    "expression": "2 + 3 * 4",
+    "tutorialText": "Slide parentheses, change the order!"
+  },
+  {
+    "id": 2,
+    "name": "Essentials",
+    "targetValue": 24.0,
+    "parenthesesPairsCount": 1,
+    "expression": "2 + 3 * 4",
+    "tutorialText": "Parentheses can multiply numbers!"
+  },
+  {
+    "id": 3,
+    "name": "Rethink Order",
+    "targetValue": 21.0,
+    "parenthesesPairsCount": 1,
+    "expression": "5 + 2 * 3",
+    "tutorialText": "It won't be this easy"
+  },
+  {
+    "id": 4,
+    "name": "Taking Away",
+    "targetValue": 24.0,
+    "parenthesesPairsCount": 1,
+    "expression": "10 - 2 * 3"
+  },
+  {
+    "id": 5,
+    "name": "Divide & Conquer",
+    "targetValue": 6.0,
+    "parenthesesPairsCount": 1,
+    "expression": "8 + 4 / 2"
+  },
+  {
+    "id": 6,
+    "name": "Wait... What?",
+    "targetValue": 14.0,
+    "parenthesesPairsCount": 1,
+    "expression": "2 * 3 + 4",
+    "tutorialText": "Not everything is what it seems."
+  },
+  {
+    "id": 7,
+    "name": "Flexible Math",
+    "targetValue": 20.0,
+    "parenthesesPairsCount": 1,
+    "expression": "2 + 3 * 4",
+    "tutorialText": "Flex 4 the win!"
+  },
+  {
+    "id": 8,
+    "name": "Careful Now",
+    "targetValue": 6.0,
+    "parenthesesPairsCount": 1,
+    "expression": "10 - 2 * 2",
+    "tutorialText": "Don't get subtracted!, you get it?"
+  },
+  {
+    "id": 9,
+    "name": "Division Time",
+    "targetValue": 12.0,
+    "parenthesesPairsCount": 1,
+    "expression": "6 / 2 * 4",
+    "tutorialText": "Division is just multiplication in disguise!"
+  },
+  {
+    "id": 10,
+    "name": "Divide Chaos",
+    "targetValue": 2.0,
+    "parenthesesPairsCount": 1,
+    "expression": "8 / 2 + 2",
+    "tutorialText": "Divide and conquer!"
+  },
+  {
+    "id": 11,
+    "name": "The Power of 1",
+    "targetValue": 10.0,
+    "parenthesesPairsCount": 1,
+    "expression": "1 * 10",
+    "tutorialText": "1 is the loneliest number, but it can be powerful!"
+  },
+  {
+    "id": 12,
+    "name": "Plan It",
+    "targetValue": 16.0,
+    "parenthesesPairsCount": 1,
+    "expression": "2 + 2 * 2 * 2",
+    "tutorialText": "Wait... This one requires thinking."
+  },
+  {
+    "id": 13,
+    "name": "Chain Reaction",
+    "targetValue": 27.0,
+    "parenthesesPairsCount": 1,
+    "expression": "3 + 3 * 3 * 1"
+  },
+  {
+    "id": 14,
+    "name": "Balance Scale",
+    "targetValue": 12.0,
+    "parenthesesPairsCount": 1,
+    "expression": "6 / 2 + 2 * 2"
+  },
+  {
+    "id": 15,
+    "name": "Mix things up",
+    "targetValue": 14.0,
+    "parenthesesPairsCount": 1,
+    "expression": "4 + 2 * 3 - 2"
+  },
+  {
+    "id": 16,
+    "name": "Options",
+    "targetValue": 20.0,
+    "parenthesesPairsCount": 1,
+    "expression": "5 + 5 * 2"
+  },
+  {
+    "id": 17,
+    "name": "Double",
+    "targetValue": 24.0,
+    "parenthesesPairsCount": 1,
+    "expression": "6 * 2 + 6"
+  },
+  {
+    "id": 18,
+    "name": "Almost",
+    "targetValue": 15.0,
+    "parenthesesPairsCount": 1,
+    "expression": "3 * 3 + 6"
+  },
+  {
+    "id": 19,
+    "name": "Shift the order",
+    "targetValue": 18.0,
+    "parenthesesPairsCount": 1,
+    "expression": "4 + 2 * 4"
+  },
+  {
+    "id": 20,
+    "name": "Edge case",
+    "targetValue": 9.0,
+    "parenthesesPairsCount": 1,
+    "expression": "6 + 3 / 3"
+  },
+  {
+    "id": 21,
+    "name": "Focus on 5",
+    "targetValue": 25.0,
+    "parenthesesPairsCount": 1,
+    "expression": "5 + 5 * 3",
+    "tutorialText": "Where is the purple guy?"
+  },
+  {
+    "id": 22,
+    "name": "Sharp",
+    "targetValue": 28.0,
+    "parenthesesPairsCount": 1,
+    "expression": "4 * 3 + 4 * 2"
+  },
+  {
+    "id": 23,
+    "name": "Tight",
+    "targetValue": 18.0,
+    "parenthesesPairsCount": 1,
+    "expression": "9 + 3 * 1 * 2",
+    "tutorialText": "I'm tired"
+  },
+  {
+    "id": 24,
+    "name": "Final?",
+    "targetValue": 30.0,
+    "parenthesesPairsCount": 1,
+    "expression": "5 * 2 + 5 * 2"
+  },
+  {
+    "id": 25,
+    "name": "Noob",
+    "targetValue": 32.0,
+    "parenthesesPairsCount": 1,
+    "expression": "4 + 4 * 4 + 4",
+    "tutorialText": "Congrats, you're a noob!"
+  },
+  {
+    "id": 26,
+    "name": "Double Trouble",
+    "targetValue": 36.0,
+    "parenthesesPairsCount": 2,
+    "expression": "10 + 2 * 5 - 2",
+    "tutorialText": "Double the fun!"
+  }
+]
