@@ -313,11 +313,11 @@
   },
   {
     "id": 40,
-    "name": "Double Jump",
-    "targetValue": -24.0,
+    "name": "Negative in the middle",
+    "targetValue": -120.0,
     "parenthesesPairsCount": 2,
     "expression": "2 * 5 - 2 * 6",
-    "tutorialText": "Jump high!"
+    "tutorialText": "You are not the boss of me now!"
   },
   {
     "id": 41,
