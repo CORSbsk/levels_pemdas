@@ -206,7 +206,7 @@
   {
     "id": 28,
     "name": "Minus trick",
-    "targetValue": 20.0,
+    "targetValue": 30.0,
     "parenthesesPairsCount": 2,
     "expression": "15 - 5 * 2 + 1"
   },
@@ -220,7 +220,7 @@
   {
     "id": 30,
     "name": "Fraction fun",
-    "targetValue": 6.0,
+    "targetValue": 5.0,
     "parenthesesPairsCount": 2,
     "expression": "20 + 10 / 5 + 1",
     "tutorialText": "Group the division well"
@@ -250,7 +250,7 @@
   {
     "id": 34,
     "name": "Subtle addition",
-    "targetValue": 16.0,
+    "targetValue": 20.0,
     "parenthesesPairsCount": 2,
     "expression": "2 + 2 * 3 + 2"
   },
@@ -272,7 +272,7 @@
   {
     "id": 37,
     "name": "Small bite",
-    "targetValue": 0.0,
+    "targetValue": 16.0,
     "parenthesesPairsCount": 2,
     "expression": "10 - 2 * 4 - 2"
   },
@@ -330,7 +330,7 @@
   {
     "id": 45,
     "name": "Inception Div",
-    "targetValue": 50.0,
+    "targetValue": 10.0,
     "parenthesesPairsCount": 2,
     "expression": "50 / 5 / 5 + 5",
     "tutorialText": "A dream within a dream"
