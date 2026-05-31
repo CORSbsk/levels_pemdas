@@ -290,7 +290,7 @@
   {
     "id": 37,
     "name": "Shrink Down",
-    "targetValue": 50.0,
+    "targetValue": 0.5,
     "parenthesesPairsCount": 2,
     "expression": "100 / 10 + 10 * 2",
     "tutorialText": "Shrink it down"
