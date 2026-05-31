@@ -1,375 +1,402 @@
 [
   {
     "id": 1,
-    "name": "The Beginning!!!!!",
+    "name": "First Steps",
     "targetValue": 20.0,
     "parenthesesPairsCount": 1,
     "expression": "2 + 3 * 4",
-    "tutorialText": "Slide parentheses, change the order!"
+    "tutorialText": "Math is fun, they said"
   },
   {
     "id": 2,
-    "name": "Essentials",
-    "targetValue": 24.0,
-    "parenthesesPairsCount": 1,
-    "expression": "2 + 3 * 4",
-    "tutorialText": "Parentheses can multiply numbers!"
-  },
-  {
-    "id": 3,
-    "name": "Rethink Order",
-    "targetValue": 21.0,
-    "parenthesesPairsCount": 1,
-    "expression": "5 + 2 * 3",
-    "tutorialText": "It won't be this easy"
-  },
-  {
-    "id": 4,
-    "name": "Taking Away",
-    "targetValue": 24.0,
-    "parenthesesPairsCount": 1,
-    "expression": "10 - 2 * 3"
-  },
-  {
-    "id": 5,
-    "name": "Divide & Conquer",
-    "targetValue": 6.0,
-    "parenthesesPairsCount": 1,
-    "expression": "8 + 4 / 2"
-  },
-  {
-    "id": 6,
-    "name": "Wait... What?",
+    "name": "The Magic",
     "targetValue": 14.0,
     "parenthesesPairsCount": 1,
     "expression": "2 * 3 + 4",
-    "tutorialText": "Not everything is what it seems."
+    "tutorialText": "Abracadabra!"
   },
   {
-    "id": 7,
-    "name": "Flexible Math",
-    "targetValue": 20.0,
+    "id": 3,
+    "name": "Group Up",
+    "targetValue": 24.0,
     "parenthesesPairsCount": 1,
     "expression": "2 + 3 * 4",
-    "tutorialText": "Flex 4 the win!"
+    "tutorialText": "Together we stand"
   },
   {
-    "id": 8,
-    "name": "Careful Now",
+    "id": 4,
+    "name": "Simple Sub",
+    "targetValue": 4.0,
+    "parenthesesPairsCount": 1,
+    "expression": "10 - 2 * 3",
+    "tutorialText": "Less is more"
+  },
+  {
+    "id": 5,
+    "name": "Divide First",
+    "targetValue": 10.0,
+    "parenthesesPairsCount": 1,
+    "expression": "8 + 4 / 2",
+    "tutorialText": "Share and conquer"
+  },
+  {
+    "id": 6,
+    "name": "Reverse It",
     "targetValue": 6.0,
     "parenthesesPairsCount": 1,
     "expression": "10 - 2 * 2",
-    "tutorialText": "Don't get subtracted!, you get it?"
+    "tutorialText": "Go back to go forward"
   },
   {
-    "id": 9,
-    "name": "Division Time",
+    "id": 7,
+    "name": "Double Up",
     "targetValue": 12.0,
     "parenthesesPairsCount": 1,
     "expression": "6 / 2 * 4",
-    "tutorialText": "Division is just multiplication in disguise!"
+    "tutorialText": "Double trouble"
   },
   {
-    "id": 10,
-    "name": "Divide Chaos",
-    "targetValue": 2.0,
+    "id": 8,
+    "name": "Divide Mix",
+    "targetValue": 6.0,
     "parenthesesPairsCount": 1,
     "expression": "8 / 2 + 2",
-    "tutorialText": "Divide and conquer!"
+    "tutorialText": "Mix it up!"
   },
   {
-    "id": 11,
-    "name": "The Power of 1",
+    "id": 9,
+    "name": "Power of 1",
     "targetValue": 10.0,
     "parenthesesPairsCount": 1,
     "expression": "1 * 10",
-    "tutorialText": "1 is the loneliest number, but it can be powerful!"
+    "tutorialText": "One is all you need"
   },
   {
-    "id": 12,
-    "name": "Plan It",
+    "id": 10,
+    "name": "Triple Time",
     "targetValue": 16.0,
     "parenthesesPairsCount": 1,
     "expression": "2 + 2 * 2 * 2",
-    "tutorialText": "Wait... This one requires thinking."
+    "tutorialText": "Third time's the charm"
+  },
+  {
+    "id": 11,
+    "name": "Chain Link",
+    "targetValue": 27.0,
+    "parenthesesPairsCount": 1,
+    "expression": "3 + 3 * 3 * 1",
+    "tutorialText": "Link by link"
+  },
+  {
+    "id": 12,
+    "name": "Mix It Up",
+    "targetValue": 12.0,
+    "parenthesesPairsCount": 1,
+    "expression": "6 / 2 + 2 * 2",
+    "tutorialText": "Shake it up!"
   },
   {
     "id": 13,
-    "name": "Chain Reaction",
-    "targetValue": 27.0,
+    "name": "Negative Vib",
+    "targetValue": 8.0,
     "parenthesesPairsCount": 1,
-    "expression": "3 + 3 * 3 * 1"
+    "expression": "4 + 2 * 3 - 2",
+    "tutorialText": "Stay positive!"
   },
   {
     "id": 14,
-    "name": "Balance Scale",
-    "targetValue": 12.0,
+    "name": "Five Alive",
+    "targetValue": 20.0,
     "parenthesesPairsCount": 1,
-    "expression": "6 / 2 + 2 * 2"
+    "expression": "5 + 5 * 2",
+    "tutorialText": "High five!"
   },
   {
     "id": 15,
-    "name": "Why so negative?",
-    "targetValue": -8.0,
+    "name": "Double Six",
+    "targetValue": 18.0,
     "parenthesesPairsCount": 1,
-    "expression": "4 + 2 * 3 - 2"
+    "expression": "6 * 2 + 6",
+    "tutorialText": "Roll the dice"
   },
   {
     "id": 16,
-    "name": "Options",
-    "targetValue": 20.0,
+    "name": "Triple Nine",
+    "targetValue": 15.0,
     "parenthesesPairsCount": 1,
-    "expression": "5 + 5 * 2"
+    "expression": "3 * 3 + 6",
+    "tutorialText": "Cloud nine"
   },
   {
     "id": 17,
-    "name": "Double Triple",
-    "targetValue": 72.0,
+    "name": "Four Two",
+    "targetValue": 12.0,
     "parenthesesPairsCount": 1,
-    "expression": "6 * 2 + 6"
+    "expression": "4 + 2 * 4",
+    "tutorialText": "Forty-two!"
   },
   {
     "id": 18,
-    "name": "Almost",
-    "targetValue": 15.0,
+    "name": "Divide Three",
+    "targetValue": 7.0,
     "parenthesesPairsCount": 1,
-    "expression": "3 * 3 + 6"
+    "expression": "6 + 3 / 3",
+    "tutorialText": "Three's company"
   },
   {
     "id": 19,
-    "name": "Shift the order",
-    "targetValue": 12.0,
+    "name": "Five Focus",
+    "targetValue": 20.0,
     "parenthesesPairsCount": 1,
-    "expression": "4 + 2 * 4"
+    "expression": "5 + 5 * 3",
+    "tutorialText": "Eyes on the prize"
   },
   {
     "id": 20,
-    "name": "Edge case",
-    "targetValue": 7.0,
+    "name": "Double Four",
+    "targetValue": 20.0,
     "parenthesesPairsCount": 1,
-    "expression": "6 + 3 / 3"
+    "expression": "4 * 3 + 4 * 2",
+    "tutorialText": "Double or nothing"
   },
   {
     "id": 21,
-    "name": "Focus on 5",
-    "targetValue": 30.0,
-    "parenthesesPairsCount": 1,
-    "expression": "5 + 5 * 3",
-    "tutorialText": "Where is the purple guy?"
-  },
-  {
-    "id": 22,
-    "name": "Sharp",
-    "targetValue": 56.0,
-    "parenthesesPairsCount": 1,
-    "expression": "4 * 3 + 4 * 2"
-  },
-  {
-    "id": 23,
-    "name": "Tight",
+    "name": "Nine Two",
     "targetValue": 15.0,
     "parenthesesPairsCount": 1,
     "expression": "9 + 3 * 1 * 2",
-    "tutorialText": "I'm tired"
+    "tutorialText": "Nine lives"
+  },
+  {
+    "id": 22,
+    "name": "Five Split",
+    "targetValue": 20.0,
+    "parenthesesPairsCount": 1,
+    "expression": "5 * 2 + 5 * 2",
+    "tutorialText": "Split decision"
+  },
+  {
+    "id": 23,
+    "name": "Four Power",
+    "targetValue": 24.0,
+    "parenthesesPairsCount": 1,
+    "expression": "4 + 4 * 4 + 4",
+    "tutorialText": "Power up!"
   },
   {
     "id": 24,
-    "name": "Final?",
-    "targetValue": 20.0,
-    "parenthesesPairsCount": 1,
-    "expression": "5 * 2 + 5 * 2"
-  },
-  {
-    "id": 25,
-    "name": "Noob",
-    "targetValue": 64.0,
-    "parenthesesPairsCount": 1,
-    "expression": "4 + 4 * 4 + 4",
-    "tutorialText": "Congrats, you're a noob!"
-  },
-  {
-    "id": 26,
-    "name": "Double Trouble",
+    "name": "Double Pair",
     "targetValue": 36.0,
     "parenthesesPairsCount": 2,
     "expression": "10 + 2 * 5 - 2",
     "tutorialText": "Double the fun!"
   },
   {
-    "id": 27,
-    "name": "Teamwork",
+    "id": 25,
+    "name": "Team Work",
     "targetValue": 50.0,
     "parenthesesPairsCount": 2,
     "expression": "6 + 4 * 2 + 3",
-    "tutorialText": "Two pairs are better than one"
+    "tutorialText": "Better together"
+  },
+  {
+    "id": 26,
+    "name": "Minus Trick",
+    "targetValue": 30.0,
+    "parenthesesPairsCount": 2,
+    "expression": "15 - 5 * 2 + 1",
+    "tutorialText": "Tricky, tricky"
+  },
+  {
+    "id": 27,
+    "name": "Twin Win",
+    "targetValue": 30.0,
+    "parenthesesPairsCount": 2,
+    "expression": "8 + 2 * 3 + 1",
+    "tutorialText": "Winning duo"
   },
   {
     "id": 28,
-    "name": "Minus trick",
-    "targetValue": 30.0,
-    "parenthesesPairsCount": 2,
-    "expression": "15 - 5 * 2 + 1"
-  },
-  {
-    "id": 29,
-    "name": "Twin pairs",
-    "targetValue": 30.0,
-    "parenthesesPairsCount": 2,
-    "expression": "8 + 2 * 3 + 1"
-  },
-  {
-    "id": 30,
-    "name": "Fraction fun",
+    "name": "Fraction Fun",
     "targetValue": 5.0,
     "parenthesesPairsCount": 2,
     "expression": "20 + 10 / 5 + 1",
-    "tutorialText": "Group the division well"
+    "tutorialText": "Piece of cake"
   },
   {
-    "id": 31,
-    "name": "Total wipeout",
+    "id": 29,
+    "name": "Zero Hero",
     "targetValue": 0.0,
     "parenthesesPairsCount": 2,
     "expression": "8 * 3 - 3 * 2",
-    "tutorialText": "Can you reach absolute zero?"
+    "tutorialText": "Hero to zero"
+  },
+  {
+    "id": 30,
+    "name": "Scale Up",
+    "targetValue": 240.0,
+    "parenthesesPairsCount": 2,
+    "expression": "10 + 2 * 10 * 2",
+    "tutorialText": "Level up!"
+  },
+  {
+    "id": 31,
+    "name": "Chain React",
+    "targetValue": 72.0,
+    "parenthesesPairsCount": 2,
+    "expression": "2 + 1 * 3 + 3 * 4",
+    "tutorialText": "Chain reaction"
   },
   {
     "id": 32,
-    "name": "Scale up",
-    "targetValue": 240.0,
+    "name": "Subtle Add",
+    "targetValue": 20.0,
     "parenthesesPairsCount": 2,
-    "expression": "10 + 2 * 10 * 2"
+    "expression": "2 + 2 * 3 + 2",
+    "tutorialText": "Subtle moves"
   },
   {
     "id": 33,
-    "name": "Chain reaction",
-    "targetValue": 72.0,
-    "parenthesesPairsCount": 2,
-    "expression": "2 + 1 * 3 + 3 * 4"
-  },
-  {
-    "id": 34,
-    "name": "Subtle addition",
-    "targetValue": 20.0,
-    "parenthesesPairsCount": 2,
-    "expression": "2 + 2 * 3 + 2"
-  },
-  {
-    "id": 35,
-    "name": "Nesting Intro",
+    "name": "Nest Intro",
     "targetValue": 50.0,
     "parenthesesPairsCount": 2,
     "expression": "2 + 3 * 2 * 5",
-    "tutorialText": "Try placing one inside another!"
+    "tutorialText": "Nesting time!"
+  },
+  {
+    "id": 34,
+    "name": "Double Ten",
+    "targetValue": 120.0,
+    "parenthesesPairsCount": 2,
+    "expression": "5 + 7 * 2 + 8",
+    "tutorialText": "Perfect ten"
+  },
+  {
+    "id": 35,
+    "name": "Small Bite",
+    "targetValue": 16.0,
+    "parenthesesPairsCount": 2,
+    "expression": "10 - 2 * 4 - 2",
+    "tutorialText": "Take a bite"
   },
   {
     "id": 36,
-    "name": "Double Tens",
-    "targetValue": 120.0,
+    "name": "Half Cent",
+    "targetValue": 50.0,
     "parenthesesPairsCount": 2,
-    "expression": "5 + 7 * 2 + 8"
+    "expression": "9 + 1 * 10 - 5",
+    "tutorialText": "Halfway there!"
   },
   {
     "id": 37,
-    "name": "Small bite",
-    "targetValue": 16.0,
-    "parenthesesPairsCount": 2,
-    "expression": "10 - 2 * 4 - 2"
-  },
-  {
-    "id": 38,
-    "name": "Half century",
-    "targetValue": 50.0,
-    "parenthesesPairsCount": 2,
-    "expression": "9 + 1 * 10 - 5"
-  },
-  {
-    "id": 39,
-    "name": "Shrink it down",
+    "name": "Shrink Down",
     "targetValue": 50.0,
     "parenthesesPairsCount": 2,
     "expression": "100 / 10 + 10 * 2",
-    "tutorialText": "Be careful what you multiply"
+    "tutorialText": "Shrink it down"
   },
   {
-    "id": 40,
-    "name": "Threes",
+    "id": 38,
+    "name": "Triple Three",
     "targetValue": 54.0,
     "parenthesesPairsCount": 2,
-    "expression": "3 * 3 + 3 * 3"
+    "expression": "3 * 3 + 3 * 3",
+    "tutorialText": "Triple threat"
   },
   {
-    "id": 41,
-    "name": "Rethink deep",
+    "id": 39,
+    "name": "Deep Think",
     "targetValue": 24.0,
     "parenthesesPairsCount": 2,
     "expression": "1 + 2 + 3 * 4",
-    "tutorialText": "Nesting solves the deepest problems"
+    "tutorialText": "Think deep"
+  },
+  {
+    "id": 40,
+    "name": "Double Jump",
+    "targetValue": -24.0,
+    "parenthesesPairsCount": 2,
+    "expression": "2 * 5 - 2 * 6",
+    "tutorialText": "Jump high!"
+  },
+  {
+    "id": 41,
+    "name": "Hidden Neg",
+    "targetValue": 16.0,
+    "parenthesesPairsCount": 2,
+    "expression": "10 - 5 + 3 * 2",
+    "tutorialText": "Hidden gem"
   },
   {
     "id": 42,
-    "name": "Double jump",
-    "targetValue": -24.0,
+    "name": "Mult Nest",
+    "targetValue": 70.0,
     "parenthesesPairsCount": 2,
-    "expression": "2 * 5 - 2 * 6"
+    "expression": "7 * 2 * 2 + 3",
+    "tutorialText": "Multiply nest"
   },
   {
     "id": 43,
-    "name": "Hidden negative",
-    "targetValue": 16.0,
-    "parenthesesPairsCount": 2,
-    "expression": "10 - 5 + 3 * 2"
-  },
-  {
-    "id": 44,
-    "name": "Multiplication nest",
-    "targetValue": 70.0,
-    "parenthesesPairsCount": 2,
-    "expression": "7 * 2 * 2 + 3"
-  },
-  {
-    "id": 45,
-    "name": "Inception Div",
+    "name": "Inception",
     "targetValue": 10.0,
     "parenthesesPairsCount": 2,
     "expression": "50 / 5 / 5 + 5",
-    "tutorialText": "A dream within a dream"
+    "tutorialText": "Dream within dream"
   },
   {
-    "id": 46,
+    "id": 44,
     "name": "Elevens",
     "targetValue": 121.0,
     "parenthesesPairsCount": 2,
-    "expression": "1 + 10 * 1 + 10"
+    "expression": "1 + 10 * 1 + 10",
+    "tutorialText": "Lucky eleven"
+  },
+  {
+    "id": 45,
+    "name": "Nines Game",
+    "targetValue": 81.0,
+    "parenthesesPairsCount": 2,
+    "expression": "5 + 4 * 6 + 3",
+    "tutorialText": "Game on!"
+  },
+  {
+    "id": 46,
+    "name": "Gross Math",
+    "targetValue": 144.0,
+    "parenthesesPairsCount": 2,
+    "expression": "6 + 6 * 8 + 4",
+    "tutorialText": "Gross but cool"
   },
   {
     "id": 47,
-    "name": "Nines",
-    "targetValue": 81.0,
-    "parenthesesPairsCount": 2,
-    "expression": "5 + 4 * 6 + 3"
-  },
-  {
-    "id": 48,
-    "name": "Gross",
-    "targetValue": 144.0,
-    "parenthesesPairsCount": 2,
-    "expression": "6 + 6 * 8 + 4"
-  },
-  {
-    "id": 49,
-    "name": "Cubic",
+    "name": "Cubic Fun",
     "targetValue": 125.0,
     "parenthesesPairsCount": 2,
     "expression": "2 + 3 * 4 + 1 * 5",
-    "tutorialText": "Combine them all"
+    "tutorialText": "Cube it!"
   },
   {
-    "id": 50,
-    "name": "The World Boss",
+    "id": 48,
+    "name": "Final Boss",
     "targetValue": 300.0,
     "parenthesesPairsCount": 2,
     "expression": "1 + 2 * 4 + 6 * 10",
-    "tutorialText": "Congratulations on finishing World 2!"
+    "tutorialText": "Boss battle!"
+  },
+  {
+    "id": 49,
+    "name": "Master Test",
+    "targetValue": 100.0,
+    "parenthesesPairsCount": 2,
+    "expression": "5 * 5 - 5 * 5",
+    "tutorialText": "Master level"
+  },
+  {
+    "id": 50,
+    "name": "PEMDAS King",
+    "targetValue": 500.0,
+    "parenthesesPairsCount": 2,
+    "expression": "10 * 10 * 5 + 10",
+    "tutorialText": "You did it!"
   }
 ]
