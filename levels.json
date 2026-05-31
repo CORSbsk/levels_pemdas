@@ -109,8 +109,8 @@
   },
   {
     "id": 15,
-    "name": "Mix things up",
-    "targetValue": 14.0,
+    "name": "Why so negative?",
+    "targetValue": -8.0,
     "parenthesesPairsCount": 1,
     "expression": "4 + 2 * 3 - 2"
   },
