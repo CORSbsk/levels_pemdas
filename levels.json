@@ -394,7 +394,7 @@
   {
     "id": 50,
     "name": "PEMDAS King",
-    "targetValue": 500.0,
+    "targetValue": 5000.0,
     "parenthesesPairsCount": 2,
     "expression": "10 * 10 * 5 + 10",
     "tutorialText": "You did it!"
