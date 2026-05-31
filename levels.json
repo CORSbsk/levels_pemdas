@@ -123,8 +123,8 @@
   },
   {
     "id": 17,
-    "name": "Double",
-    "targetValue": 24.0,
+    "name": "Double Triple",
+    "targetValue": 72.0,
     "parenthesesPairsCount": 1,
     "expression": "6 * 2 + 6"
   },
