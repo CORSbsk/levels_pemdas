@@ -175,7 +175,7 @@
   {
     "id": 24,
     "name": "Final?",
-    "targetValue": 30.0,
+    "targetValue": 20.0,
     "parenthesesPairsCount": 1,
     "expression": "5 * 2 + 5 * 2"
   },
