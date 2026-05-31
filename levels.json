@@ -145,14 +145,14 @@
   {
     "id": 20,
     "name": "Edge case",
-    "targetValue": 9.0,
+    "targetValue": 7.0,
     "parenthesesPairsCount": 1,
     "expression": "6 + 3 / 3"
   },
   {
     "id": 21,
     "name": "Focus on 5",
-    "targetValue": 25.0,
+    "targetValue": 30.0,
     "parenthesesPairsCount": 1,
     "expression": "5 + 5 * 3",
     "tutorialText": "Where is the purple guy?"
@@ -160,14 +160,14 @@
   {
     "id": 22,
     "name": "Sharp",
-    "targetValue": 28.0,
+    "targetValue": 56.0,
     "parenthesesPairsCount": 1,
     "expression": "4 * 3 + 4 * 2"
   },
   {
     "id": 23,
     "name": "Tight",
-    "targetValue": 18.0,
+    "targetValue": 15.0,
     "parenthesesPairsCount": 1,
     "expression": "9 + 3 * 1 * 2",
     "tutorialText": "I'm tired"
@@ -182,7 +182,7 @@
   {
     "id": 25,
     "name": "Noob",
-    "targetValue": 32.0,
+    "targetValue": 64.0,
     "parenthesesPairsCount": 1,
     "expression": "4 + 4 * 4 + 4",
     "tutorialText": "Congrats, you're a noob!"
